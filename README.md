@@ -9,3 +9,19 @@ I am currently taking part in a Full Time Web Development boot camp in Berlin wh
 ---
 
 [click to see web dev gif](https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif)
+
+---
+
+## A list of Technologies I have worked with:
+
+- HTML
+- CSS
+- Javascript
+- Express.JS
+- Node.JS
+- MongoDB
+- Mongoose
+- GitHub
+- Git
+- Postman
+- VS Code

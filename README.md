@@ -1,4 +1,4 @@
-# Hi my name is Rob, welcome to my GitHub page. 
+# Hi my name is Rob :wave:, welcome to my GitHub page. 
 
 ## About Me:
 
@@ -12,7 +12,7 @@ I am currently taking part in a Full Time Web Development boot camp in Berlin wh
 
 ---
 
-## A list of Technologies I have worked with:
+## A list of Technologies I have worked with: :dizzy:
 
 - HTML
 - CSS

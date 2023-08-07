@@ -8,4 +8,4 @@ I am currently taking part in a Full Time Web Development boot camp in Berlin wh
 
 ---
 
-[web dev gif](https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif)
+[click to see web dev gif](https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif)
